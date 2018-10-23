@@ -1011,6 +1011,7 @@ premium services
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 ## Miscellaneous
+- [South Indian Movies] (http://tamilrockers.by) tamil, Hindi, Telugu, Malayalam, English Movies 
 - [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
